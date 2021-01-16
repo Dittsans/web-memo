@@ -1,9 +1,9 @@
-# memoweb
+# Memoweb
 Ini adalah web untuk kenangan sekolah atau apapun dibuat dengan NextJS
 
 # Display
 ### Light
-![light.png](Display Light)
+![Display Light](light.png)
 
 ### Dark
-![dark.png](Display Dark)
+![Display Dark](dark.png)
