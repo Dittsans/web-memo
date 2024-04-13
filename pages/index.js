@@ -169,7 +169,7 @@ class Home extends Component {
             Album <span className="text-indigo-600">Fesco</span>.
             </p>
             <p className="mt-4 max-w-2xl text-base md:text-lg lg:text-xl break-words font-semibold mx-auto text-gray-300">
-              Kelas IPS 5 Di SMAN 1 Kaliwungu Angkatan Tahun 2018-2021.
+              SMA NEGRI 1 BINJAI (SMANSA) TAHUN 2023-2024.
             </p>
           </div>
         </div>
@@ -290,7 +290,7 @@ class Home extends Component {
                                 </div>
                                 <div className="flex flex-wrap my-4 md:my-2">
                                   <div className="relative w-full md:w-auto md:mr-2">
-                                    Pesan & Kesan :
+                                    Pesan & Kesan :dittsans ganteng
                                   </div>
                                   <div className="w-full md:w-auto flex-grow">
                                     {siswa.pesan}
